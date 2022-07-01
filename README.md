@@ -18,4 +18,4 @@ The useful part of this application is the autocomplete functionality.
 
 ## Example usage
 
-
+![](public/images/homepage.png)
