@@ -12,7 +12,7 @@ The useful part of this application is the autocomplete functionality. Although 
 2. `cd` into the directory
 3. Run `npm install` to install dependencies
 4. Run `npm start` to start the application
-5. Navigate to the application using: `http://localhost:3000`
+5. Type `http://localhost:3000` into your browser
 
 ## Example usage
 
