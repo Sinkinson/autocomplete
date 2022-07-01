@@ -1,12 +1,10 @@
 # Autocomplete
 
-Application that autocompletes country names.
-Built using `JS` and `express`.
+Application that autocompletes country names. Built using `JS` and `express`.
 
 ## About
 
-The useful part of this application is the autocomplete functionality.
-`autocomplete.js` contains the generic class for use in other projects.
+The useful part of this application is the autocomplete functionality. Although used with countries here, `autocomplete.js` contains the generic class for use in other projects.
 
 ## How to use
 
